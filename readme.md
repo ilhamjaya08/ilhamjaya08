@@ -3,6 +3,7 @@
 Halo semuanya, perkenalkan saya Muhammad Ilham Jaya,
 disini saya hanyalah seorang programmer pemula yang minim skill dan pengetahuan.
 Mohon bantuannya puh sepuh🙏🙏
+Note: Akun GitHub lama saya (Clyne08) sudah tidak ditangan saya lagi, apabila terdapat repository/perubahan lain didalamnya bukan merupakan tanggung jawab saya. lagi🙏🙏🙏
 Media Sosial saya:
 ###### •Instagram
 = [Klik Disini](https://www.instagram.com/ilham.j_08)
