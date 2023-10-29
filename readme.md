@@ -24,6 +24,6 @@ Silahkan cek [disini](https://linktr.ee/ilhamjaya08) untuk informasi Sosial Medi
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Clyne08&show_icons=true&theme=cobalt)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hammmm08&show_icons=true&theme=cobalt)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Clyne08)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hammmm08)](https://github.com/anuraghazra/github-readme-stats)
