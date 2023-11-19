@@ -1,5 +1,6 @@
 ### Bahasa Indonesia
 ---
+![](https://komarev.com/ghpvc/?username=ilhamjaya08&label=PROFILE+VIEWS)
 Halo semuanya, perkenalkan saya Muhammad Ilham Jaya,
 disini saya hanyalah seorang programmer pemula yang minim skill dan pengetahuan.
 Mohon bantuannya puh sepuh🙏🙏
