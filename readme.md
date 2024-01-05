@@ -1,19 +1,18 @@
-### Bahasa Indonesia
+![My card name](https://cardivo-beta.vercel.app/api?name=Muhammad%20Ilham%20Jaya&description=Hi%20There,%20i%27m%20Beginnerl%20Developer%20and%20i%27m%2016%20y.o.%20%20I%27m%20from%20Indonesia%20and%20now%20me%20%20studying%20at%20Software%20Engineering%20Major%20of%20Vocational%20High%20School%20%F0%9F%98%8A&image=https://avatars.githubusercontent.com/u/141555404&pattern=ticTacToe&colorPattern=%23eaeaea&opacity=0.5&site=https:/ilhamjaya08.me&instagram=ilham.j_08&github=ilhamjaya08)
+
 ---
 ![](https://komarev.com/ghpvc/?username=ilhamjaya08&label=PROFILE+VIEWS)
-Halo semuanya, perkenalkan saya Muhammad Ilham Jaya,
-disini saya hanyalah seorang programmer pemula yang minim skill dan pengetahuan.
-Mohon bantuannya puh sepuh🙏🙏
-Note: Akun GitHub lama saya (Clyne08) sudah tidak ditangan saya lagi, apabila terdapat repository/perubahan lain didalamnya bukan merupakan tanggung jawab saya. lagi🙏🙏🙏
-Media Sosial saya:
+---
+Hello everyone, let me introduce myself, I'm Muhammad Ilham Jaya. I am a Beginner Developer currently studying Software Engineering at Vocational School. and By The Way I come from Indonesia. On my account you can see several projects that I have worked on or am currently working on. As for the projects that I publish, this means that the projects are Open Source so you can contribute or use them free of charge.
+My Web, Contact, and Social Media:
 ###### •Instagram
-= [Klik Disini](https://www.instagram.com/ilham.j_08)
+= [Click Here](https://www.instagram.com/ilham.j_08)
 ###### •Facebook
-= [Klik Disini](https://www.facebook.com/profile.php?id=100041879446793&mibextid=ZbWKwL)
+= [Click Here](https://www.facebook.com/profile.php?id=100041879446793&mibextid=ZbWKwL)
 ###### •Youtube
-= [Klik Disini, Subscribe lah🤭](https://youtube.com/@hamzxd08?si=i2G_txqWuD8wSZo4)
-###### •Dan Lain Lain
-Silahkan cek [disini](https://linktr.ee/ilhamjaya08) untuk informasi Sosial Media saya lebih lanjut
+= [Click Here, and Don't forget to Subscribe it🤭](https://youtube.com/@hamzxd08?si=i2G_txqWuD8wSZo4)
+###### •etc
+for others, you can check it by click [here](https://linktr.ee/ilhamjaya08)
 
 [![Ercan Acar's github trophy](https://github-profile-trophy.vercel.app/?username=MaxAndolini&row=1&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
