@@ -11,6 +11,8 @@ My Web, Contact, and Social Media:
 = [Click Here](https://www.facebook.com/profile.php?id=100041879446793&mibextid=ZbWKwL)
 ###### •Youtube
 = [Click Here, and Don't forget to Subscribe it🤭](https://youtube.com/@hamzxd08?si=i2G_txqWuD8wSZo4)
+###### •Discord
+= <img src="https://discord.c99.nl/widget/theme-2/757257945531678760.png"/>
 ###### •etc
 for others, you can check it by click [here](https://linktr.ee/ilhamjaya08)
 
