@@ -1,9 +1,9 @@
-![My card name](https://cardivo-beta.vercel.app/api?name=Muhammad%20Ilham%20Jaya&description=Hi%20There,%20i%27m%20Beginnerl%20Developer%20and%20i%27m%2016%20y.o.%20%20I%27m%20from%20Indonesia%20and%20now%20me%20%20studying%20at%20Software%20Engineering%20Major%20of%20Vocational%20High%20School%20%F0%9F%98%8A&image=https://avatars.githubusercontent.com/u/141555404&pattern=ticTacToe&colorPattern=%23eaeaea&opacity=0.5&site=https:/ilhamjaya08.me&instagram=ilham.j_08&github=ilhamjaya08)
+![My card name](https://cardivo-beta.vercel.app/api?name=Muhammad%20Ilham%20Jaya&description=Hi%20There,%20i%27m%20Beginner%20Developer%20and%20i%27m%2016%20y.o.%20%20I%27m%20from%20Indonesia%20and%20now%20me%20%20studying%20at%20Software%20Engineering%20Major%20of%20Vocational%20High%20School%20%F0%9F%98%8A&image=https://avatars.githubusercontent.com/u/141555404&pattern=ticTacToe&colorPattern=%23eaeaea&opacity=0.5&site=https:/ilhamjaya08.me&instagram=ilham.j_08&github=ilhamjaya08)
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ilhamjaya08&label=PROFILE+VIEWS"/>
 <br><br>
-<img src="https://github-profile-trophy.vercel.app/?username=MaxAndolini&row=1&theme=darkhub"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ilhamjaya08&row=1&theme=darkhub"/>
 <br><br>
 
 
@@ -59,9 +59,13 @@
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)]()
 [![Linktree](https://img.shields.io/badge/linktree%20for%20my%20others%20media-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/ilhamjaya08/)
 
-
+## 📶 My GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ilhamjaya08&show_icons=true&theme=cobalt)
-
+## 💽 My Top Languages from my repositories
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamjaya08)](https://github.com/anuraghazra/github-readme-stats)
-
+## 🌐 My Wakatime Stats
+<img
+  src="https://github.com/ilhamjaya08/ilhamjaya08/blob/main/images/stat.svg"
+  alt="Wakatime Stats"
+/>
 
