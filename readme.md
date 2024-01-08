@@ -6,6 +6,9 @@
 <img src="https://github-profile-trophy.vercel.app/?username=ilhamjaya08&row=1&theme=darkhub"/>
 <br><br>
 
+![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-grey?style=for-the-badge&logo=MD)
+![Made With HTML](https://img.shields.io/badge/Made%20with-Html-orange?style=for-the-badge&logo=HTML)
+<br><br>
 
 ## 🔰 List of Language, Framework, Tools, OS, Cloud Service, Device, Platform,  and others i used
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
