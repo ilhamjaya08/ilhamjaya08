@@ -2,6 +2,8 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ilhamjaya08&label=PROFILE+VIEWS"/>
+<a href="https://github.com/ilhamjaya08"><img src="https://img.shields.io/github/followers/ilhamjaya08?label=followers&style=social"/></a>
+<a href="https://user-badge.committers.top/indonesia/ilhamjaya08"><img src="https://user-badge.committers.top/indonesia/ilhamjaya08.svg" alt="committers.top badge"></a>
 <br><br>
 <img src="https://github-profile-trophy.vercel.app/?username=ilhamjaya08&row=1&theme=darkhub"/>
 <br><br>
