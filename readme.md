@@ -63,7 +63,7 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)]()
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)]()
 [![Linktree](https://img.shields.io/badge/linktree%20for%20my%20others%20media-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/ilhamjaya08/)
-
+<img src="https://discord.c99.nl/widget/theme-1/757257945531678760.png" alt="ilhamjaya08 discord" />
 ## 📶 My GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ilhamjaya08&show_icons=true&theme=cobalt)
 ## 💽 My Top Languages from my repositories
