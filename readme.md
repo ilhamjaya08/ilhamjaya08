@@ -16,7 +16,9 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Pawn](https://img.shields.io/badge/SA:MP%20Pawn-F96854?style=for-the-badge&logo=patreon&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Pawn](https://img.shields.io/badge/Pawn-F96854?style=for-the-badge&logo=patreon&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/Basic%20c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/basic%20python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <br><br>
@@ -63,6 +65,7 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)]()
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)]()
 [![Linktree](https://img.shields.io/badge/linktree%20for%20my%20others%20media-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/ilhamjaya08/)
+<br><br>
 <img src="https://discord.c99.nl/widget/theme-1/757257945531678760.png" alt="ilhamjaya08 discord" />
 ## 📶 My GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ilhamjaya08&show_icons=true&theme=cobalt)
