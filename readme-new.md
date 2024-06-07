@@ -83,3 +83,6 @@ Student | Freelancer | Beginner Developer
 ### 📊 My Github Stats
 
 <p align="center"><img src="https://raw.githubusercontent.com/ilhamjaya08/ilhamjaya08/main/github-metrics.svg" alt="Metrics"></p>
+
+### 📝 My WakaTime breakdown stats weekly
+<p align="center"><img src="https://raw.githubusercontent.com/ilhamjaya08/ilhamjaya08/main/images/stat.svg" alt="Wakatome"></p>
