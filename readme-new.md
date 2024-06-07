@@ -53,6 +53,15 @@ Student | Freelancer | Beginner Developer
     - Android Pie (9)
     - etc.
 
+### Contact
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://linktr.ee/ilhamjaya08)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ilham.j_08)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.ilhamjaya1808@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@ilhamjaya08)
+[![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/ilhamjaya08)
+
+
 ### Skill Set (in icons)
 #### Programming Language
 [![My Programming Language Skills](https://skillicons.dev/icons?i=js,ts,java,go)](https://skillicons.dev)
