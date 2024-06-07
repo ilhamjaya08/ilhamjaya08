@@ -25,6 +25,7 @@ Student | Freelancer | Beginner Developer
   - `English`
   - `Javanese`
   - `Arabic` (basic)
+- 🌐 My personal site is <a href="https://ilhamjaya08.me">https://ilhamjaya08.me</a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -54,6 +55,7 @@ Student | Freelancer | Beginner Developer
     - etc.
 
 ### Contact
+[![My Website](https://img.shields.io/badge/My%20Website-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://ilhamjaya08.me)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://linktr.ee/ilhamjaya08)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ilham.j_08)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg)
