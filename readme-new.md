@@ -52,3 +52,25 @@ Student | Freelancer | Beginner Developer
     - MIUI 11
     - Android Pie (9)
     - etc.
+
+### Skill Set (in icons)
+#### Programming Language
+[![My Programming Language Skills](https://skillicons.dev/icons?i=js,ts,java,go)](https://skillicons.dev)
+
+#### Front-End
+[![My Frontend Skills](https://skillicons.dev/icons?i=html,css,jquery,svelte,react,tailwind,bootstrap)](https://skillicons.dev)
+
+#### Back-End
+[![My Backend Skills](https://skillicons.dev/icons?i=nodejs,bun,nest,express)](https://skillicons.dev)
+
+#### Full-Stack
+[![My Fullstack Skills](https://skillicons.dev/icons?i=next,astro)](https://skillicons.dev)
+
+#### Database & ORM
+[![My Database Skills](https://skillicons.dev/icons?i=prisma,sequelize,mysql,mongodb,sqlite)](https://skillicons.dev)
+
+#### Cloud, Serverless, CI/CD, DevOps, etc.
+[![My Other Skills](https://skillicons.dev/icons?i=vercel,netlify,azure,githubactions,github,)](https://skillicons.dev)
+### 📊 My Github Stats
+
+<p align="center"><img src="https://raw.githubusercontent.com/ilhamjaya08/ilhamjaya08/main/github-metrics.svg" alt="Metrics"></p>
