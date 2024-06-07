@@ -25,3 +25,30 @@ Student | Freelancer | Beginner Developer
   - `English`
   - `Javanese`
   - `Arabic` (basic)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### ⚙️ Development Tools
+- 🖊️ Text Editor & IDE:
+  - Visual Studio Code (main)
+  - Apache Netbeans
+  - Neovim [AstroNvim + lazyvim]
+- 🌐 Browser:
+  - Vivaldi
+  - Google Chrome
+- 🔎 Search Engine:
+  - Microsoft Bing
+  - Google
+- 🖥️ Hardware:
+  - Windows 10 64-bit
+  - Intel® Xeon® Platinum (2 CPUs) ~2.5GHz
+  - 4096 MB Ram
+  - etc.
+- 📱 Phone:
+  - Xiaomi Redmi 6A
+    - Mediatek Helio P22
+    - 2 GB Ram
+    - 16 GB Internal
+    - MIUI 11
+    - Android Pie (9)
+    - etc.
