@@ -66,13 +66,13 @@ Student | Freelancer | Beginner Developer
 
 ### Skill Set (in icons)
 #### Programming Language
-[![My Programming Language Skills](https://skillicons.dev/icons?i=js,ts,java,go)](https://skillicons.dev)
+[![My Programming Language Skills](https://skillicons.dev/icons?i=js,ts,java,go,php)](https://skillicons.dev)
 
 #### Front-End
 [![My Frontend Skills](https://skillicons.dev/icons?i=html,css,jquery,svelte,react,tailwind,bootstrap)](https://skillicons.dev)
 
 #### Back-End
-[![My Backend Skills](https://skillicons.dev/icons?i=nodejs,bun,nest,express)](https://skillicons.dev)
+[![My Backend Skills](https://skillicons.dev/icons?i=nodejs,bun,nest,express,laravel)](https://skillicons.dev)
 
 #### Full-Stack
 [![My Fullstack Skills](https://skillicons.dev/icons?i=next,astro)](https://skillicons.dev)
