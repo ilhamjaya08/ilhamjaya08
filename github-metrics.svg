@@ -316,19 +316,19 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 307kb of code in 198 edited files across 164 commits over last 14 days</small>
+                <small>estimation from 306kb of code in 194 edited files across 162 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="265.50433333333336" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="265.50433333333336" y="0" width="75.06433333333334" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="340.5686666666667" y="0" width="55.56416666666667" height="8" fill="#ff3e00"/>
-                    <rect mask="url(#languages-bar)" x="396.13283333333334" y="0" width="29.0145" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="425.14733333333334" y="0" width="27.66133333333333" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="452.8086666666667" y="0" width="3.3771666666666667" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="456.1858333333334" y="0" width="3.8141666666666665" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="269.0081646782678" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="269.0081646782678" y="0" width="69.9843798812871" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="338.99254455955486" y="0" width="56.29744083352331" height="8" fill="#ff3e00"/>
+                    <rect mask="url(#languages-bar)" x="395.28998539307815" y="0" width="29.39740114997847" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="424.6873865430566" y="0" width="28.026376892356275" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="452.7137634354129" y="0" width="3.4217347619409475" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="456.13549819735385" y="0" width="3.8645018026461324" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -381,12 +381,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 82 commits)</small>
+                    <small class="h-details">(computed from last 81 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 65.0 characters per line of code written</li>
+                        <li>Has approximately 65.4 characters per line of code written</li>
                         <li>Mostly pushes code around 21:00</li>
                         <li>Mostly active on Monday</li>
                     </ul>
@@ -2060,7 +2060,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.54m out of 206m repositories</span>
+                                    <span class="gh">ranked 2.54m out of 210m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 7 stars</div>
                             </div>
@@ -2178,7 +2178,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Jun 2024, 11:12:26 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Jun 2024, 12:10:53 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
