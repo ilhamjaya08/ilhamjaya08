@@ -316,17 +316,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 81.3kb of code in 124 edited files across 94 commits over last 14 days</small>
+                <small>estimation from 79.1kb of code in 120 edited files across 92 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="228.66689396522332" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="228.66689396522332" y="0" width="173.9102170701216" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="402.5771110353449" y="0" width="32.95647232640072" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="435.5335833617456" y="0" width="21.82111603591317" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="457.3546993976588" y="0" width="2.6453006023411754" height="8" fill="#ff3e00"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="223.62075991849454" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="223.62075991849454" y="0" width="183.4155579527748" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="407.0363178712693" y="0" width="34.757760997243196" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="441.7940788685125" y="0" width="15.41603739661992" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="457.2101162651324" y="0" width="2.7898837348675536" height="8" fill="#ff3e00"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -367,12 +367,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 47 commits)</small>
+                    <small class="h-details">(computed from last 46 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 35.2 characters per line of code written</li>
+                        <li>Has approximately 34.7 characters per line of code written</li>
                         <li>Mostly pushes code around 17:00</li>
                         <li>Mostly active on Saturday</li>
                     </ul>
@@ -2096,7 +2096,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 982k out of 214m repositories</span>
+                                    <span class="gh">ranked 982k out of 213m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 27 stars</div>
                             </div>
@@ -2214,7 +2214,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Jul 2024, 15:13:16 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Jul 2024, 16:11:39 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
