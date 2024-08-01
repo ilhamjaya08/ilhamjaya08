@@ -72,7 +72,7 @@ Student | Freelancer | Beginner Developer
 [![My Frontend Skills](https://skillicons.dev/icons?i=html,css,jquery,svelte,react,tailwind,bootstrap)](https://skillicons.dev)
 
 #### Back-End
-[![My Backend Skills](https://skillicons.dev/icons?i=nodejs,bun,adonis,nest,express,laravel)](https://skillicons.dev)
+[![My Backend Skills](https://skillicons.dev/icons?i=nodejs,bun,nest,express,laravel)](https://skillicons.dev)
 
 #### Full-Stack
 [![My Fullstack Skills](https://skillicons.dev/icons?i=next,astro)](https://skillicons.dev)
