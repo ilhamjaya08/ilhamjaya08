@@ -1,0 +1,55 @@
+name: Auto commit
+
+on:
+
+  push:
+    branches:
+      - main
+      
+  schedule:
+  - cron: "0 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20 * * *" # See https://crontab.guru/#0_7,9,11,17,20_*_*_*
+
+jobs:
+  auto_commit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2      
+        with:
+         persist-credentials: false
+         fetch-depth: 0
+
+      - name: Modify last update
+        run: |
+          d=`date '+%Y-%m-%dT%H:%M:%SZ'`
+          echo $d > LAST_UPDATED
+          
+      - name: Commit changes
+        run: |
+          set -o pipefail
+          git config --global --add safe.directory /github/workspace
+          git config --local user.email "m.ilhamjaya1808@gmail.com"
+          git config --local user.name "ilhamjaya08"
+          git config --global --add safe.directory /github/workspace
+          git add -A
+          
+          arr[0]="chore(bot): rfresh"
+          arr[1]="chore(bot): rfresh"
+          arr[2]="chore(bot): rfresh"
+          arr[3]="chore(bot): rfresh"
+          arr[4]="chore(bot): rfresh"
+          arr[5]="chore(bot): rfresh"
+          arr[6]="chore(bot): rfresh"
+          arr[7]="chore(bot): rfresh"
+          arr[8]="chore(bot): rfresh"
+          arr[9]="chore(bot): rfresh"
+          
+          rand=$[$RANDOM % ${#arr[@]}]
+          
+          git commit -m "${arr[$rand]}"
+          
+      - name: GitHub Push
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          force: true
+          directory: "."
+          github_token: ${{ secrets.GH_TOKEN }}

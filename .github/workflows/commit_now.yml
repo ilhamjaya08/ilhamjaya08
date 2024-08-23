@@ -1,0 +1,72 @@
+name: Commit Now
+
+on:
+  workflow_dispatch:
+    inputs:
+      email:
+        description: 'EMail'
+        required: true
+        default: 'm.ilhamjaya1808@gmail.com'
+      username:
+        description: 'Username'
+        required: true
+        default: 'ilhamjaya08'
+      commit:
+        description: 'Commit'
+        required: true
+        default: 'Greenify'
+      limit:
+        description: 'Limit Commit'
+        required: true
+        default: 5
+  push:
+    branches:
+      - main
+
+jobs:
+  auto_commit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2      
+        with:
+         persist-credentials: false
+         fetch-depth: 0
+      
+      - name: Set Config
+        run: |
+          git config --local user.email "${{ github.event.inputs.email }}"
+          git config --local user.name "${{ github.event.inputs.username }}"
+          git add -A
+          
+          arr[0]="chore(bot): refresh"
+          arr[1]="chore(bot): refresh"
+          arr[2]="chore(bot): refresh"
+          arr[3]="chore(bot): refresh"
+          arr[4]="chore(bot): refresh"
+          arr[5]="chore(bot): refresh"
+          arr[6]="chore(bot): refresh"
+          arr[7]="chore(bot): refresh"
+          arr[8]="chore(bot): refresh"
+          arr[9]="chore(bot): refresh"
+          
+          rand=$[$RANDOM % ${#arr[@]}]
+          
+          git commit -m "${arr[$rand]}"
+
+      - name: DO It
+        run: |
+          for i in {0..${{ github.event.inputs.limit }}}
+          do
+            cat > LAST_UPDATED
+            d=$i+`date '+%Y-%m-%dT%H:%M:%SZ'`
+            echo $d > LAST_UPDATED
+            git add -A
+            git commit -m "${{ github.event.inputs.commit }}"
+          done
+          
+      - name: GitHub Push
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          force: true
+          directory: "."
+          github_token: ${{ secrets.GH_TOKEN }}
