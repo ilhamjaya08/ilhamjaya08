@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            764 Commits
+                            767 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -316,18 +316,18 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.19mb of code in 730 edited files across 845 commits over last 12 days</small>
+                <small>estimation from 1.20mb of code in 735 edited files across 848 commits over last 12 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="286.4552948636652" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="286.4552948636652" y="0" width="65.13379835129993" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="351.58909321496515" y="0" width="44.53012048192771" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="396.11921369689287" y="0" width="25.19720989220038" height="8" fill="#ff3e00"/>
-                    <rect mask="url(#languages-bar)" x="421.3164235890933" y="0" width="22.343690551680403" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="443.66011414077366" y="0" width="16.339885859226378" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="287.5565170940171" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="287.5565170940171" y="0" width="63.83974358974359" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="351.3962606837607" y="0" width="46.71752136752137" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="398.1137820512821" y="0" width="24.410470085470084" height="8" fill="#ff3e00"/>
+                    <rect mask="url(#languages-bar)" x="422.5242521367522" y="0" width="21.646047008547008" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="444.17029914529917" y="0" width="15.829700854700855" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -374,12 +374,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 182 commits)</small>
+                    <small class="h-details">(computed from last 184 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 47.3 characters per line of code written</li>
+                        <li>Has approximately 47.2 characters per line of code written</li>
                         <li>Mostly pushes code around 13:00</li>
                         <li>Mostly active on Sunday</li>
                     </ul>
@@ -2119,7 +2119,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 580k out of 145m users</span>
+                                    <span class="gh">ranked 580k out of 143m users</span>
                                 </div>
                                 <div class="text">Published 57 public repositories</div>
                             </div>
@@ -2346,7 +2346,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Sept 2024, 20:15:33 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Sept 2024, 21:09:36 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
