@@ -35,7 +35,8 @@ Student | Freelancer | Beginner Developer
   - Apache Netbeans
   - Neovim [AstroNvim + lazyvim]
 - 🌐 Browser:
-  - Vivaldi
+  - Brave
+  - Kiwi Browser
   - Google Chrome
 - 🔎 Search Engine:
   - Microsoft Bing
