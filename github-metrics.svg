@@ -316,15 +316,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.54mb of code in 634 edited files across 908 commits over last 14 days</small>
+                <small>estimation from 1.54mb of code in 633 edited files across 906 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="411.8390087359601" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="411.8390087359601" y="0" width="47.95596362988055" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="459.79497236584064" y="0" width="0.2050276341593867" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="411.32921940453133" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="411.32921940453133" y="0" width="48.46358272149903" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="459.7928021260303" y="0" width="0.20719787396964098" height="8" fill="#4F5D95"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2205,7 +2205,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 836k out of 222m repositories</span>
+                                    <span class="gh">ranked 836k out of 219m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 35 stars</div>
                             </div>
@@ -2359,7 +2359,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Oct 2024, 07:51:50 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Oct 2024, 09:15:08 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
