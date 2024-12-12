@@ -7,10 +7,6 @@
 
 
 
-
-
-
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ilhamjaya08&label=PROFILE+VIEWS"/>
 <a href="https://github.com/ilhamjaya08"><img src="https://img.shields.io/github/followers/ilhamjaya08?label=followers&style=social"/></a>
