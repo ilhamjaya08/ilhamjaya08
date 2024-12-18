@@ -316,18 +316,24 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 2.17mb of code in 597 edited files across 849 commits over last 14 days</small>
+                <small>estimation from 2.44mb of code in 677 edited files across 914 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="185.07768583499177" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="185.07768583499177" y="0" width="128.6156209629552" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="313.693306797947" y="0" width="126.27876121643797" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="439.972068014385" y="0" width="20.027931985615027" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="168.2250408290978" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="168.2250408290978" y="0" width="161.8147961597753" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="330.0398369888731" y="0" width="112.4495932353435" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="442.4894302242166" y="0" width="17.510569775783384" height="8" fill="#878787"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        JavaScript
+                    </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
@@ -339,12 +345,6 @@
                             <path fill="#4F5D95" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         PHP
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        JavaScript
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2217,7 +2217,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 820k out of 210m repositories</span>
+                                    <span class="gh">ranked 821k out of 218m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 37 stars</div>
                             </div>
@@ -2371,7 +2371,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Dec 2024, 20:21:15 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Dec 2024, 21:11:19 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
