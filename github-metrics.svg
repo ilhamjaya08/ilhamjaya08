@@ -316,18 +316,18 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.93mb of code in 725 edited files across 930 commits over last 14 days</small>
+                <small>estimation from 1.87mb of code in 695 edited files across 907 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="300.74583591124696" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="300.74583591124696" y="0" width="84.8001358712135" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="385.54597178246047" y="0" width="34.59863400904999" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="420.14460579151046" y="0" width="20.697795732188133" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="440.8424015236986" y="0" width="12.929844354672394" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="453.772245878371" y="0" width="6.227754121628999" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="291.93658688218835" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="291.93658688218835" y="0" width="94.4731115946534" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="386.40969847684175" y="0" width="32.365557973267016" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="418.77525645010877" y="0" width="19.881877525645013" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="438.6571339757538" y="0" width="14.4047248989742" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="453.061858874728" y="0" width="6.938141125271992" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1779,7 +1779,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 566k out of 151m users</span>
+                                    <span class="gh">ranked 566k out of 152m users</span>
                                 </div>
                                 <div class="text">Published 59 public repositories</div>
                             </div>
@@ -1888,7 +1888,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 808k out of 232m repositories</span>
+                                    <span class="gh">ranked 808k out of 230m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 38 stars</div>
                             </div>
@@ -2006,7 +2006,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Jan 2025, 18:09:10 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Jan 2025, 19:20:12 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
