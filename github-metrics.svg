@@ -316,31 +316,31 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 2.12mb of code in 686 edited files across 883 commits over last 13 days</small>
+                <small>estimation from 2.33mb of code in 756 edited files across 939 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="194.86750390804946" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="194.86750390804946" y="0" width="189.18085773189648" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="384.0483616399459" y="0" width="33.48069385813214" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="417.52905549807804" y="0" width="21.537694741691144" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="439.0667502397692" y="0" width="12.88440480595685" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="451.95115504572607" y="0" width="8.048844954273934" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="202.24209230599007" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="202.24209230599007" y="0" width="178.44460119220503" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="380.6866934981951" y="0" width="40.4216975782471" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="421.10839107644216" y="0" width="19.722556463770523" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="440.83094754021266" y="0" width="11.79854224582659" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="452.6294897860393" y="0" width="7.370510213960694" height="8" fill="#00ADD8"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        JavaScript
-                    </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         TSX
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        JavaScript
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1776,7 +1776,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 567k out of 151m users</span>
+                                    <span class="gh">ranked 567k out of 125m users</span>
                                 </div>
                                 <div class="text">Published 59 public repositories</div>
                             </div>
@@ -1849,7 +1849,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 809k out of 229m repositories</span>
+                                    <span class="gh">ranked 809k out of 220m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 38 stars</div>
                             </div>
@@ -2003,7 +2003,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Jan 2025, 07:54:30 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Jan 2025, 09:17:34 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
