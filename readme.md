@@ -51,14 +51,6 @@ Student | Freelancer | Beginner Developer
   - Intel® Xeon® Platinum (2 CPUs) ~2.5GHz
   - 4096 MB Ram
   - etc.
-- 📱 Phone:
-  - Xiaomi Redmi 6A
-    - Mediatek Helio P22
-    - 2 GB Ram
-    - 16 GB Internal
-    - MIUI 11
-    - Android Pie (9)
-    - etc.
 
 ### Contact
 [![My Website](https://img.shields.io/badge/My%20Website-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://ilhamjaya08.me)
