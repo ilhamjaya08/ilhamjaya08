@@ -34,20 +34,13 @@ Student | Freelancer | Beginner Developer
 ### ⚙️ Development Tools
 - 🖊️ Text Editor & IDE:
   - Visual Studio Code (main)
-  - Apache Netbeans
   - Neovim [AstroNvim + lazyvim]
 - 🌐 Browser:
   - Brave
-  - Kiwi Browser
   - Google Chrome
 - 🔎 Search Engine:
   - Microsoft Bing
   - Google
-- 🖥️ Hardware:
-  - Windows 10 64-bit
-  - Intel® Xeon® Platinum (2 CPUs) ~2.5GHz
-  - 4096 MB Ram
-  - etc.
 
 ### Contact
 [![My Website](https://img.shields.io/badge/My%20Website-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://ilhamjaya08.me)
