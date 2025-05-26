@@ -27,7 +27,7 @@ Student | Freelancer | Beginner Developer
   - `English`
   - `Javanese`
   - `Arabic` (basic)
-- 🌐 My personal site is <a href="https://ilhamjaya08.me">https://ilhamjaya08.me</a>
+- 🌐 My personal site is <a href="https://ilham.live">https://ilham.live</a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
