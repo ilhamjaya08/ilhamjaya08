@@ -9,7 +9,7 @@
 </div>
 
 <h3 align="center">
-Student | Freelancer | Beginner Developer
+Student | Freelancer | Beginner Developer | Web3 Explorer
 </h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -18,13 +18,7 @@ Student | Freelancer | Beginner Developer
 - 🤵 My name is `Muhammad Ilham Jaya`
 - 🗣️ People called me `Ilham` / `Jaya` / `ilhamjaya08`
 - 🏡 I live in `Karanganyar, Central Java, Indonesia`
-- 👨 `Javanese` ethnicity
 - 🏫 `Software Engineering` student
-- 🗯️ I can speak the following languages:
-  - `Indonesia`
-  - `English`
-  - `Javanese`
-  - `Arabic` (basic)
 - 🌐 My personal site is <a href="https://ilham.live">https://ilham.live</a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -32,12 +26,12 @@ Student | Freelancer | Beginner Developer
 ### ⚙️ Development Tools
 - 🖊️ Text Editor & IDE:
   - Visual Studio Code (main)
-  - Neovim [AstroNvim + lazyvim]
+  - Remix IDE
 - 🌐 Browser:
   - Brave
   - Google Chrome
 - 🔎 Search Engine:
-  - Microsoft Bing
+  - DuckDuckGo
   - Google
 
 ### Contact
