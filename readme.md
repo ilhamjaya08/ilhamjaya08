@@ -47,7 +47,7 @@ Student | Freelancer | Beginner Developer | Web3 Explorer
 
 ### Skill Set (in icons)
 #### Programming Language
-[![My Programming Language Skills](https://skillicons.dev/icons?i=js,ts,java,php)](https://skillicons.dev)
+[![My Programming Language Skills](https://skillicons.dev/icons?i=js,ts,java,php,solidity)](https://skillicons.dev)
 
 #### Front-End
 [![My Frontend Skills](https://skillicons.dev/icons?i=html,css,jquery,svelte,react,tailwind,bootstrap)](https://skillicons.dev)
