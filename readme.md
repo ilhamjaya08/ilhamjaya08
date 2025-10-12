@@ -30,9 +30,10 @@ Student | Freelancer | Beginner Developer | Web3 Explorer
 - 🌐 Browser:
   - Brave
   - Google Chrome
-- 🔎 Search Engine:
-  - DuckDuckGo
-  - Google
+- 💻 Stuff:
+  - Lenovo Thinkpad E480
+  - Arch/Endeavour OS Linux
+  - KDE Plasma Dekstop Environment
 
 ### Contact
 [![My Website](https://img.shields.io/badge/My%20Website-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://ilhamjaya08.me)
@@ -61,7 +62,7 @@ Student | Freelancer | Beginner Developer | Web3 Explorer
 [![My Database Skills](https://skillicons.dev/icons?i=prisma,sequelize,mysql,mongodb,sqlite)](https://skillicons.dev)
 
 #### Cloud, Serverless, CI/CD, DevOps, etc.
-[![My Other Skills](https://skillicons.dev/icons?i=vercel,netlify,azure,githubactions,github,)](https://skillicons.dev)
+[![My Other Skills](https://skillicons.dev/icons?i=vercel,netlify,azure,githubactions,github,linux)](https://skillicons.dev)
 ### 📊 My Github Stats
 
 <p align="center"><img src="https://raw.githubusercontent.com/ilhamjaya08/ilhamjaya08/main/github-metrics.svg" alt="Metrics"></p>
