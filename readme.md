@@ -37,8 +37,7 @@ Student | Freelancer | Beginner Developer | Web3 Enthusiast
   - KDE Plasma Dekstop Environment
 
 ### Contact
-[![My Website](https://img.shields.io/badge/My%20Website-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://ilhamjaya08.me)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://linktr.ee/ilhamjaya08)
+[![My Website](https://img.shields.io/badge/My%20Website-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://ilh4m.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ilham.j_08)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.ilhamjaya1808@gmail.com)
