@@ -20,7 +20,7 @@ Student | Freelancer | Beginner Developer | Web3 Explorer
 - 🗣️ People called me `Ilham` / `Jaya` / `ilhamjaya08`
 - 🏡 I live in `Karanganyar, Central Java, Indonesia`
 - 🏫 `Software Engineering` student
-- 🌐 My personal site is <a href="https://ilham.live">https://ilham.live</a>
+- 🌐 My personal site is <a href="https://ilh4m.com">https://ilh4m.com</a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
