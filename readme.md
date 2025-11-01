@@ -62,7 +62,7 @@ Student | Freelancer | Beginner Developer | Web3 Enthusiast
 [![My Database Skills](https://skillicons.dev/icons?i=prisma,sequelize,mysql,mongodb,sqlite)](https://skillicons.dev)
 
 #### Cloud, Serverless, CI/CD, DevOps, etc.
-[![My Other Skills](https://skillicons.dev/icons?i=vercel,netlify,azure,githubactions,github,linux)](https://skillicons.dev)
+[![My Other Skills](https://skillicons.dev/icons?i=vercel,netlify,githubactions,github,linux)](https://skillicons.dev)
 ### 📊 My Github Stats
 
 <p align="center"><img src="https://raw.githubusercontent.com/ilhamjaya08/ilhamjaya08/main/github-metrics.svg" alt="Metrics"></p>
