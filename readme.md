@@ -26,14 +26,15 @@ Student | Freelancer | Beginner Developer | Web3 Enthusiast
 ### ⚙️ Development Tools
 - 🖊️ Text Editor & IDE:
   - Visual Studio Code (main)
+  - Neovim 
   - Remix IDE
 - 🌐 Browser:
   - Brave
   - Google Chrome
 - 💻 Stuff:
   - Lenovo Thinkpad E480
-  - Arch/Endeavour OS Linux
-  - KDE Plasma Dekstop Environment
+  - Arch/Cachy OS Linux
+  - KDE Plasma & Hyprland 
 
 ### Contact
 [![My Website](https://img.shields.io/badge/My%20Website-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://ilh4m.com)
