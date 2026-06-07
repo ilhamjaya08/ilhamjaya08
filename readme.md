@@ -8,7 +8,7 @@
 </div>
 
 <h3 align="center">
-Student | Freelancer | Beginner Developer | Web3 Enthusiast
+Student | Software Engineer | Web3 Enthusiast
 </h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
